@@ -1,5 +1,3 @@
 # pandas-challenge
 Module 4 Challenge 
-
-
-today is 1/19/2024
+I completed this challenge with support from instructional staff, AskBCs, Xpert AI, by working with peers, referencing Stack Overflow, and Chatgpt.
