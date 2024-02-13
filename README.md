@@ -35,9 +35,9 @@ Considerable (missing) data for future budget and spending priorities includes:
 
 What the data tells us…
 
-	Something interesting we can take from the selected data is how it challenges the belief that top-performing schools are best in class because they have more funding and resources per student than lower performing schools. Here, we are given an insightful perspective on top-performing schools reaching their academic goals with a smaller budget and spending, on average, a little less per student compared to the District. 
+Something interesting we can take from the selected data is how it challenges the belief that top-performing schools are best in class because they have more funding and resources per student than lower performing schools. Here, we are given an insightful perspective on top-performing schools reaching their academic goals with a smaller budget and spending, on average, a little less per student compared to the District. 
 
-	Let’s take a closer look at the correlation between school sizes and performance results. 
+Let’s take a closer look at the correlation between school sizes and performance results. 
 From the data we see that the smaller Network of Charter Schools is significantly better performing than the large-scale Districts’ performance. In asking why, let’s consider some possibilities that can be drawn from this observation.
 
 •	Larger schools may have a higher Teacher to Student Ratio (unmanageable class sizes?)
@@ -78,7 +78,7 @@ Referencing the Top-Performing Schools for what works - (School Culture, Climate
 
 
 
-	In conclusion, the comprehensive analysis in this report sheds light on significant disparities between Charter and District High Schools in North Texas, particularly in the realms of academic performance and budget allocations. Notably, Charter Schools exhibit a commendable lead in Math and Reading, achieving a higher overall passing performance with a smaller budget compared to District Schools. The data challenges the prevailing notion that increased funding directly correlates with positive academic outcomes. The data suggests that the size of educational institutions may play a pivotal role in performance, with smaller Charter School Networks outperforming their larger District counterparts. 
+In conclusion, the comprehensive analysis in this report sheds light on significant disparities between Charter and District High Schools in North Texas, particularly in the realms of academic performance and budget allocations. Notably, Charter Schools exhibit a commendable lead in Math and Reading, achieving a higher overall passing performance with a smaller budget compared to District Schools. The data challenges the prevailing notion that increased funding directly correlates with positive academic outcomes. The data suggests that the size of educational institutions may play a pivotal role in performance, with smaller Charter School Networks outperforming their larger District counterparts. 
 	As we start on strategic planning, it is imperative to consider the successful approaches demonstrated by Charter Schools, focusing on their allocation of resources, with an emphasis on teacher-to-student ratios, and sustained positive school culture. The proposed budgeting suggestions underscore the importance of prioritizing educational programs, staff costs, student services, and community engagement to foster an environment conducive to academic excellence. 
 	Ultimately, this report serves as a valuable resource for informed decision-making in the future budgeting and spending priorities of regional schools. By drawing on the insights from the data and identifying the why and how for areas of improvement, we can work towards creating a plan that implements measurable outcomes for the success of our students. 
 	
