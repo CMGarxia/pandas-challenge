@@ -60,7 +60,7 @@ From the data we see that the smaller Network of Charter Schools is significantl
 
 
 
-
+*****************
 Strategic Planning
 
 In creating a strategic plan geared at managing and improving student progress, let’s generate some hypotheses as to why students are performing the way they are. It is worth considering the Charter (Top-Performing) schools’ detailed reports of expenses on programs, educational materials etc.; used to achieve their academic goals. The importance of class size and teacher to student ratio should be prioritized, considering the negative impact large class sizes potentially have on the learning environment. 
@@ -83,7 +83,7 @@ Referencing the Top-Performing Schools for what works - (School Culture, Climate
 
 
 
-
+***************
 In conclusion, the comprehensive analysis in this report sheds light on significant disparities between Charter and District High Schools in North Texas, particularly in the realms of academic performance and budget allocations. Notably, Charter Schools exhibit a commendable lead in Math and Reading, achieving a higher overall passing performance with a smaller budget compared to District Schools. The data challenges the prevailing notion that increased funding directly correlates with positive academic outcomes. The data suggests that the size of educational institutions may play a pivotal role in performance, with smaller Charter School Networks outperforming their larger District counterparts. 
 	As we start on strategic planning, it is imperative to consider the successful approaches demonstrated by Charter Schools, focusing on their allocation of resources, with an emphasis on teacher-to-student ratios, and sustained positive school culture. The proposed budgeting suggestions underscore the importance of prioritizing educational programs, staff costs, student services, and community engagement to foster an environment conducive to academic excellence. 
 	Ultimately, this report serves as a valuable resource for informed decision-making in the future budgeting and spending priorities of regional schools. By drawing on the insights from the data and identifying the why and how for areas of improvement, we can work towards creating a plan that implements measurable outcomes for the success of our students. 
