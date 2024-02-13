@@ -24,10 +24,15 @@ The identified trends in data for Math and Reading at Charter and District High 
 Considerable (missing) data for future budget and spending priorities includes:
 
 •	The Teacher to Student Ratio in the District and Charter Schools.
+
 •	The total number of Teachers and Staff in both the District and Charter Schools. 
+
 •	The cost of educational programs, materials, transportation, staff & positions.  
+
 •	Charts & Statistics from previous years and previously identified trends.
+
 •	The School Culture & Climate of the top-performing schools.
+
 •	Student/Teacher Demographics and Parent Involvement.   
 
 
