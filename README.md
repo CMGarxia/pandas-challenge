@@ -82,4 +82,10 @@ In conclusion, the comprehensive analysis in this report sheds light on signific
 	As we start on strategic planning, it is imperative to consider the successful approaches demonstrated by Charter Schools, focusing on their allocation of resources, with an emphasis on teacher-to-student ratios, and sustained positive school culture. The proposed budgeting suggestions underscore the importance of prioritizing educational programs, staff costs, student services, and community engagement to foster an environment conducive to academic excellence. 
 	Ultimately, this report serves as a valuable resource for informed decision-making in the future budgeting and spending priorities of regional schools. By drawing on the insights from the data and identifying the why and how for areas of improvement, we can work towards creating a plan that implements measurable outcomes for the success of our students. 
 	
+![Screen Shot 2024-02-12 at 11 00 21 PM](https://github.com/CMGarxia/pandas-challenge/assets/152096353/cd0662ff-477e-458d-ad9a-406915286896)
 
+![Screen Shot 2024-02-12 at 11 00 43 PM](https://github.com/CMGarxia/pandas-challenge/assets/152096353/6856e5b3-c64c-45ff-aa86-eb3b8d98bf92)
+
+![Screen Shot 2024-02-12 at 11 01 40 PM](https://github.com/CMGarxia/pandas-challenge/assets/152096353/9e742ecf-88b2-4f0c-a2a1-18602fd454a4)
+
+![Screen Shot 2024-02-12 at 11 02 16 PM](https://github.com/CMGarxia/pandas-challenge/assets/152096353/ffd5cd95-7bd2-4aba-99f4-2cf1bb1b7c51)
