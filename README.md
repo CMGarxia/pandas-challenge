@@ -20,6 +20,7 @@ The identified trends in data for Math and Reading at Charter and District High 
 
 •	The District spent, on average, $654 per student, and Charter Schools spent, on average, $600 per student.
 
+*************
 
 Considerable (missing) data for future budget and spending priorities includes:
 
