@@ -1,7 +1,7 @@
 # pandas-challenge
 
 Carlos Mario Garcia, 
-Regional Analysis of Schools Performances 
+Regional Analysis 
  
 
 			                          Data In The Classroom 
@@ -82,4 +82,4 @@ In conclusion, the comprehensive analysis in this report sheds light on signific
 	As we start on strategic planning, it is imperative to consider the successful approaches demonstrated by Charter Schools, focusing on their allocation of resources, with an emphasis on teacher-to-student ratios, and sustained positive school culture. The proposed budgeting suggestions underscore the importance of prioritizing educational programs, staff costs, student services, and community engagement to foster an environment conducive to academic excellence. 
 	Ultimately, this report serves as a valuable resource for informed decision-making in the future budgeting and spending priorities of regional schools. By drawing on the insights from the data and identifying the why and how for areas of improvement, we can work towards creating a plan that implements measurable outcomes for the success of our students. 
 	
-![image](https://github.com/CMGarxia/pandas-challenge/assets/152096353/057baec6-dc5a-4c0b-a7ed-7c25f69c8bfc)
+
