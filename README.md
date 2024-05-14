@@ -4,7 +4,7 @@ Carlos Mario Garcia, Data Storyteller
 
  
 
-			                           Data In The Classroom 
+			                Data In The Classroom 
 
   This report aims to assist in the strategic decision-making of future budget and spending priorities. This in-depth analysis includes additional insights and suggested guidance for budgeting with an emphasis on improving student performance. 
 
