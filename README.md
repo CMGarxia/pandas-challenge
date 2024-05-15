@@ -44,7 +44,7 @@ What the data tells us…
 Something interesting we can take from the selected data is how it challenges the belief that top-performing schools are best in class because they have more funding and resources per student than lower performing schools. Here, we are given an insightful perspective on top-performing schools reaching their academic goals with a smaller budget and spending, on average, a little less per student compared to the District. 
 
 Let’s take a closer look at the correlation between school sizes and performance results. 
-From the data we see that the smaller Network of Charter Schools is significantly better performing than the large-scale Districts’ performance. In asking why, let’s consider some possibilities that can be drawn from this observation.
+From the data we see that the smaller Network of Charter Schools are significantly better performing than the large-scale Districts’ performance. In asking why, let’s consider some possibilities that can be drawn from this observation.
 
 •	Larger schools may have a higher Teacher to Student Ratio (unmanageable class sizes?)
 
